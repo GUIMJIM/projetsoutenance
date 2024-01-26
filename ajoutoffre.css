@@ -1,0 +1,43 @@
+/* Ajoutez ces styles à votre fichier de style existant */
+
+.dashboard-container {
+    max-width: 800px;
+    margin: 0 auto;
+  }
+  
+  .section {
+    margin-bottom: 20px;
+  }
+  
+  .add-job-offer form {
+    max-width: 400px;
+    margin: 0 auto;
+  }
+  
+  .add-job-offer label {
+    display: block;
+    margin-bottom: 5px;
+  }
+  
+  .add-job-offer input[type="text"],
+  .add-job-offer textarea,
+  .add-job-offer input[type="checkbox"] {
+    width: 100%;
+    padding: 8px;
+    margin-bottom: 10px;
+    box-sizing: border-box;
+  }
+  
+  .add-job-offer button {
+    background-color: #4caf50;
+    color: white;
+    padding: 10px;
+    border: none;
+    cursor: pointer;
+    width: 100%;
+  }
+  
+  .add-job-offer button:hover {
+    background-color: #45a049;
+  }
+  
